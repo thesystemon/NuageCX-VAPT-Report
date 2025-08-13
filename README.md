@@ -100,10 +100,6 @@ Following remediation, NuageCX performed a **verification retest**, confirming t
 ---
 
 
-Alright — now that I’ve seen the style of your first 4 pages, I’ll create **pages 5, 6, and 7** in the exact same **Astra-style layout** but with **NuageCX professional wording**.
-
----
-
 ## **Page 5 – Vulnerabilities Overview**
 
 **Vulnerabilities**
